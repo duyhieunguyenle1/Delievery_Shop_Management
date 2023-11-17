@@ -16,9 +16,11 @@ or
 git clone git@github.com:duyhieunguyenle1/Delievery_Shop_Management.git
 ```
 
-2. open and then build it with netbeans
+2. change username and password in connection/MyConnection following your username (default:root) and your password <b>of mysql</b>. URL too if your host set up differently
 
-3. Run file initDb.sql in folder icons_mysqlConnector
+3. open and then build it with netbeans
+
+4. Run file initDb.sql in folder icons_mysqlConnector
 
 - That file include create table schema and init admin account
 - Admin account include:
