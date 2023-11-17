@@ -2,9 +2,9 @@
 
 ### REQUIREMENT
 
-1. Netbeans IDE
-2. mysql-connector jdbc <strong>file jar</strong> to include to library (already attached in folder icons_mysqlConnector)
-3. mysql workbench or command line (recommend version > 8.0 )
+1. Netbeans IDE.
+2. mysql-connector jdbc <strong>file jar</strong> to include to library (already attached in folder icons_mysqlConnector).
+3. mysql workbench or command line (recommend version > 8.0 ).
 
 ### HOW TO RUN
 
