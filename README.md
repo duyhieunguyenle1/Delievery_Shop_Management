@@ -29,7 +29,7 @@ git clone git@github.com:duyhieunguyenle1/Delievery_Shop_Management.git
 
 ### NOTE
 
-1. You can only register supplier account by using admin account
-2. To accept purchase, you have to use admin account to select its supplier and then using supplier to confirm purchase to "On the way"
-3. <b>Close is the white one not the default one</b>, make sure you chose it right
-4. As a supplier, <b>double-click</b> row on the delivery page to confirm it's received
+1. You can only register supplier account by using admin account.
+2. To accept purchase, you have to use admin account to select its supplier and then using supplier to confirm purchase to "On the way".
+3. <b>Close is the white one not the default one</b>, make sure you chose it right.
+4. As a supplier, <b>double-click</b> row on the delivery page to confirm it's received.
